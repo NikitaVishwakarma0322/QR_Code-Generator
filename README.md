@@ -4,4 +4,4 @@
   The generated QR codes can be easily downloaded and shared.</p>
 
 Demo
-Click here 
+<a href="https://nikitavishwakarma0322.github.io/QR_Code-Generator/">Click here </a>
